@@ -1,1 +1,1 @@
-cube<-function(x) {x^3}
+cube<-function(z) {z^3}
